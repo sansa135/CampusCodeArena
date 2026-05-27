@@ -128,7 +128,7 @@ CampusCodeArena
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CampusCodeArena.git
+git clone https://github.com/sansa135/CampusCodeArena.git
 
 cd CampusCodeArena
 ```
@@ -190,7 +190,7 @@ Searching & Sorting
 
 # 👨‍💻 Developer
 
-## Sanskriti
+## SanskrUti
 
 💡 Passionate about:
 - Data Structures & Algorithms
